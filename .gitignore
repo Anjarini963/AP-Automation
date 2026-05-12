@@ -122,5 +122,7 @@ dashboard/.streamlit/secrets.toml
 # ---------- Local-only working files (intentionally not in repo) ----------
 # CLAUDE.md   = agent session anchor, kept local for Claude Code context only
 # PROGRESS.md = cross-session task checklist for the human, edited as work progresses
+# SSH.md      = SSH URLs and remote endpoints (GitHub, VPS) — local reference only
 CLAUDE.md
 PROGRESS.md
+SSH.md
