@@ -118,3 +118,9 @@ test-invoices/private/
 backend/uploads/
 backend/archive/
 dashboard/.streamlit/secrets.toml
+
+# ---------- Local-only working files (intentionally not in repo) ----------
+# CLAUDE.md   = agent session anchor, kept local for Claude Code context only
+# PROGRESS.md = cross-session task checklist for the human, edited as work progresses
+CLAUDE.md
+PROGRESS.md

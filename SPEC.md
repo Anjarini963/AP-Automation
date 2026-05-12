@@ -230,7 +230,7 @@ Recorded on Loom, two takes maximum, no over-editing.
 - VPS provisioned (Contabo Cloud VPS 10, Frankfurt or Nuremberg, Ubuntu 24.04).
 - SSH access verified from local Windows machine using OpenSSH.
 - Public GitHub repo created.
-- Anthropic API key generated with $20 budget alert.
+- Anthropic API key generated.
 - Dedicated Gmail account created with app password.
 - Slack workspace (free tier) created with bot configured (Bot Token, App-Level Token, Signing Secret saved).
 - Docker Desktop installed locally for testing.
